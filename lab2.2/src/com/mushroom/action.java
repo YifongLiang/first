@@ -9,7 +9,7 @@ public class action extends ActionSupport {
 	/**
 	 * 
 	 */
-	private static final long serialVersionUID = -1113450161790460949L;
+	private static final long serialVersionUID = -111111111111111111111111;
 	private String isbn;
 	private String name;
 	private book book;

@@ -15,7 +15,7 @@ public class book {
     	this.isbn = isbn;
     	this.title = title;
     	this.authorid = authorid;
-    	this.publisher = publisher;
+    	this.publisher = publisher11111111111;
     	this.publishdate = publishdate;
     	this.price = price;
     }

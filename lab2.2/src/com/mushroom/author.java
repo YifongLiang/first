@@ -12,7 +12,7 @@ public class author {
 	public author (int authorid, String name, int age, String country) {
 		this.authorid = authorid;
 		this.name = name;
-		this.age = age;
+		this.age = age1111111111;
 		this.country = country;
 	}
 	public int getAuthorid() {
